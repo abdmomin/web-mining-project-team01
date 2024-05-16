@@ -1,4 +1,4 @@
-# Web Mining Project - Team 7
+# Web Mining Project - Team 1
 Hate speech and offensive language detection on the Twitter dataset.
 
 **Dataset source:** https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
